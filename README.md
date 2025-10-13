@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hola! Soc l'Adrià Roig Lafon
 
-<!--
-**aroigla/aroigla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Enginyer/a de Telecomunicacions · 💻 Desenvolupador/a de Software  
+☁️ DevOps · 🤖 IA i Machine Learning Enthusiast  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projectes destacats
+| Projecte | Descripció | Stack |
+|-----------|-------------|-------|
+| [OpsAI](https://github.com/teunom/opsai-platform) | Copilot d'IA per a DevOps i monitoratge | FastAPI, Docker, Terraform, OpenAI |
+| [HelpDesk AI](https://github.com/teunom/helpdesk-ai-platform) | Chatbot intel·ligent amb coneixement d'empresa | FastAPI, ChromaDB, React, OpenAI |
+
+---
+
+## 🧰 Stack principal
+**Backend:** Python · FastAPI · Node.js  
+**Frontend:** React · Next.js  
+**Infraestructura:** Docker · Terraform · AWS · CI/CD  
+**IA:** OpenAI API · LangChain · HuggingFace
+
+---
+
+## 💼 Sobre mi
+M’apassiona construir solucions tecnològiques que combinen programació, infraestructura i intel·ligència artificial.  
+Actualment estic desenvolupant projectes SaaS que uneixen **DevOps i IA aplicada** per automatitzar processos i optimitzar entorns cloud.
+
+---
+
+## 📫 Contacte
+- 🌐 [LinkedIn](https://www.linkedin.com/in/adria-roig)  
