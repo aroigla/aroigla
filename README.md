@@ -28,4 +28,4 @@ Actualment estic desenvolupant projectes SaaS que uneixen **DevOps i IA aplicada
 ---
 
 ## 📫 Contacte
-- 🌐 [LinkedIn](https://www.linkedin.com/in/adria-roig)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/adrià-roig)  
